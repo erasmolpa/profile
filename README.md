@@ -7,8 +7,6 @@
 - Linkedin: [https://www.linkedin.com/in/erasmodominguez/](https://www.linkedin.com/in/erasmodominguez/)
 - Twitter: [https://twitter.com/erasmolpa](https://twitter.com/erasmolpa)
 - Github:
-
-
     - [Professional Account erasmodominguezdc](https://github.com/erasmodominguezdc)
   
     - [Personal Account erasmolpa](https://github.com/erasmolpa)
@@ -49,10 +47,12 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
     - Grafana , Prometheus ,Kibana, Opensearch, FluentD, Multiple AWS services used for building the Observability platform, Kafka, Kubernetes EKS
     - DevOps Tools (Jenkins, Github Actions,FluxCD,Helm,Kustomize,Docker/ContainerD)
     - Work Methodology (Scrum)
+
 </details>
 
 <details>
 <summary> As a Devops Consultant and System Architect</summary>
+
 
 ### SRE (Site Reliability Engineer) Leader
 
@@ -129,7 +129,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 <details>
 <summary> As Solution Architect</summary>
 
-# Principal Solution Architect
+# Senior Solution Architect
 
 - **Company:** Atos Spain, Tenerife
 - **Duration:** August 2015 - December 2016
@@ -167,6 +167,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 
 <details>
 <summary> As Senior Backend Engineer</summary>
+
 
 # Senior Software Engineer / Software Architect
 
@@ -208,18 +209,22 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 <details>
 <summary> Junior Developer. Internalship</summary>
 
-# Internalship . Junior Developer
+# Internalship. Junior Developer
 
 ## Atlantic Consultores [January 2005 - July 2006]
+- **Company:**  Atlantic Consultores, Madrid
+- **Duration:** January 2005 - July 2006
+- **Location:** On-site, Hands-On
+- **Responsibilities:**
 
-At Atlantic Consultores, I worked on development and design projects for websites using HTML, JavaScript, and PHP. I participated in projects for various clients, including a Rent Car website, Hotel booking engine, and a lawyer's office website.
+	- At Atlantic Consultores, I worked on development and design projects for websites using HTML, JavaScript, and PHP. I participated in projects for various clients, including a Rent Car website, Hotel booking engine, and a lawyer's office website.
 
-Technologies:
+- **Technologies:**
 
-- FrontEnd: CSS, JavaScript, HTML
-- BackEnd: PHP
-- Database: Mysql
-- Servers: Apache
-- Work Methodology: Html Kit, PhpmyAdmin
+	- FrontEnd: CSS, JavaScript, HTML
+	- BackEnd: PHP
+	- Database: Mysql
+	- Servers: Apache
+	- Work Methodology: Html Kit, PhpmyAdmin
 
 </details>

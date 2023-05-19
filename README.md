@@ -26,19 +26,29 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Duration:** April 2021 - Currently
 - **Location:** Full Remote. Hands On Role
 - **Responsibilities:**
+   
+    - Leadering a distributed team across the world, of 8 SRE engineers.Manage a team of observability engineers, assigning tasks, monitoring     progress, and providing technical guidance.
     - Design and lead the implementation of observability solutions for the company's systems and applications.
-    - Manage a team of observability engineers, assigning tasks, monitoring progress, and providing technical guidance.
     - Collaborate with cross-functional teams to establish requirements and define monitoring and logging strategies.
     - Develop and maintain customized dashboards to enable technical teams to efficiently monitor and diagnose issues.
     - Implement and configure monitoring tools such as Prometheus, Grafana, and ELK Stack to ensure system availability and performance.
     - Analyze and interpret observability data to identify patterns, trends, and performance issues.
     - Conduct code reviews and ensure adherence to software development best practices.
     - Participate in meetings and present reports on the status and outcomes of the observability team.
+
+
 - **Achievements:**
-    - Successfully led the migration of observability infrastructure to a cloud-based solution, resulting in increased scalability and flexibility.
+    - Successfully led the Warner Bros and Discovery Merge, where we provided a new and unified Observability platform ,cloud-based solution in AWS.
+    - Defining and Builing a real-time Logging as a Service platform , ingesting 20TB/logs per day in production.
+    - Providing data governance and support to the products teams to define and implement Event driven logs.
     - Improved response times for critical issue resolution by 30% through the establishment of an efficient workflow and prioritization strategy.
     - Implemented proactive alerts based on custom thresholds, reducing unplanned downtime by 20%.
 
+- **Technologies:**
+    - IaC (Bash,CDK with Typescript and Terraform with Terragrunt)
+    - Grafana , Prometheus ,Kibana, Opensearch, FluentD, Multiple AWS services used for building the Observability platform, Kafka, Kubernetes EKS
+    - DevOps Tools (Jenkins, Github Actions,FluxCD,Helm,Kustomize,Docker/ContainerD)
+    - Work Methodology (Scrum)
 </details>
 
 <details>
@@ -231,4 +241,3 @@ Technologies:
 - Work Methodology: Html Kit, PhpmyAdmin
 
 </details>
-

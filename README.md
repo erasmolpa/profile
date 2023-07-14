@@ -23,11 +23,11 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 <summary> Senior/Staff SRE. My last 2 Years</summary>
 
 ### SRE Observability Tech Lead
-- **Company:** Wizeline. Working for Warner Bros Discovery as contractor
+- **Company:** Wizeline. Working for Warner Bros Discovery as a contractor
 - **Duration:** April 2021 - Currently
 - **Location:** Full Remote. Hands-On
 - **Responsibilities:**
-    - Leadering a distributed team across the world, of 8 SRE engineers.Manage a team of observability engineers, assigning tasks, monitoring     progress, and providing technical guidance.
+    - Leadering a distributed team of 8 SRE engineers. Manage a team of observability engineers, assigning tasks, monitoring progress, and providing technical guidance.
     - Design and lead the implementation of observability solutions for the company's systems and applications.
     - Collaborate with cross-functional teams to establish requirements and define monitoring and logging strategies.
     - Develop and maintain customized dashboards to enable technical teams to efficiently monitor and diagnose issues.
@@ -35,23 +35,23 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
     - Analyze and interpret observability data to identify patterns, trends, and performance issues.
     - Conduct code reviews and ensure adherence to software development best practices.
     - Participate in meetings and present reports on the status and outcomes of the observability team
-    - Mentoring and helping other Wizeline Engineers in their growing process and carrer patch. 
+    - Mentoring and helping other Wizeline Engineers in their growing process and career patch. 
 - **Achievements:**
-    - Successfully led the Warner Bros and Discovery Merge, where we provided a new and unified Observability platform ,cloud-based solution in AWS.
-    - Defining and Builing a real-time Logging as a Service platform , ingesting 20TB/logs per day in production.
+    - Successfully led the Warner Bros and Discovery Merge, where we provided a new and unified Observability platform, a cloud-based solution in AWS.
+    - Defining and Building a real-time Logging as a Service platform, ingesting 50TB/logs per day in production.
     - Providing data governance and support to the products teams to define and implement Event driven logs.
     - Improved response times for critical issue resolution by 30% through the establishment of an efficient workflow and prioritization strategy.
     - Implemented proactive alerts based on custom thresholds, reducing unplanned downtime by 20%.
 - **Technologies:**
-    - IaC (Bash,CDK with Typescript and Terraform with Terragrunt)
-    - Grafana , Prometheus ,Kibana, Opensearch, FluentD, Multiple AWS services used for building the Observability platform, Kafka, Kubernetes EKS
-    - DevOps Tools (Jenkins, Github Actions,FluxCD,Helm,Kustomize,Docker/ContainerD)
+    - IaC (Bash, CDK with Typescript and Terraform with Terragrunt)
+    - Grafana, Prometheus, Kibana, Opensearch, FluentD, Multiple AWS services used for building the Observability platform, Kafka, Kubernetes EKS
+    - DevOps Tools (Jenkins, Github Actions, FluxCD, Helm, Kustomize, Docker/ContainerD)
     - Work Methodology (Scrum)
 
 </details>
 
 <details>
-<summary> As a Devops Consultant and System Architect</summary>
+<summary> As a DevOps Consultant and System Architect</summary>
 
 
 ### SRE (Site Reliability Engineer) Leader
@@ -76,8 +76,8 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
     - Internally training and mentoring IT and product development teams on Docker, Jenkins, Azure, and scripting using PowerShell and DevOps principles.
    
 - **Technologies:**
-    - BackEnd (Bash,PowerShell and a little bit of .Net Core); Storage/NoSQL/Database (PostgreSQL, SQL Server 2012/2016, Redis, RabbitMQ)
-    - DevOps Tools/Cloud (Puppet,Grafana, Prometheus, Zabbix,Rundeck, Jenkins, Azure, Azure DevOps, Vagrant,Packer,Rancher, PowerShell DSC, Docker, Kubernetes, Bash)
+    - BackEnd (Bash, PowerShell and a little bit of .Net Core); Storage/NoSQL/Database (PostgreSQL, SQL Server 2012/2016, Redis, RabbitMQ)
+    - DevOps Tools/Cloud (Puppet, Grafana, Prometheus, Zabbix, Rundeck, Jenkins, Azure, Azure DevOps, Vagrant, Packer, Rancher, PowerShell DSC, Docker, Kubernetes, Bash)
     - Work Methodology (TDD, XP Programming)
 
 ## Software Architect, Technical Leader
@@ -93,7 +93,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 
 - **Achievements:**
    - Provided Technical Documentation for a Cloud-Native-based architecture for Banks Solutions.
-   - Developed a Microservices chassis, offering a standardized and efficient approach for building business services,          including mechanisms and configurations for various cross-cutting concerns (service discovery, circuit breaker, auditing,security, observability, and CI/CD process for Openshift cluster).
+   - Developed a Microservices chassis, offering a standardized and efficient approach for building business services,          including mechanisms and configurations for various cross-cutting concerns (service discovery, circuit breaker, auditing, security, observability, and CI/CD process for Openshift cluster).
 
 - **Technologies:**
    - Programming: Microservices Architecture using Spring Cloud, Spring Boot, Scala, and Angular 5.
@@ -107,12 +107,12 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Location:** On-site, Hands-On
 
 - **Responsibilities:**
-    - Leading the Operation Team (4 members). I am a facilitator/mediator between development and infrastructure departments to get closer and closer to the DevOps work model. I propose and implement DevOps tools to improve and resolve company deficiencies in Automating process, providing tooling like Jenkins for CI/CD process, and migrating services to Azure Cloud.
+    - Leading the Operation Team (4 members). I am a facilitator/mediator between development and infrastructure departments to get closer and closer to the DevOps work model. I propose and implement DevOps tools to improve and resolve company deficiencies in Automating process, providing tooling like Jenkins for CI/CD process and migrating services to Azure Cloud.
     - Internally training and Mentoring IT and Product development teams about Docker, Jenkins, Azure, and scripting using Powershell and DevOps principles.
   
 - **Achievements:**
     - Audit and analyze weak points and process improvements in the company in order to improve them under the DevOps principles.
-    - Provide Product Teams a better development experience, configuring and automating their environments using Docker, Vagrant, and Powershell.
+    - Provide Product Teams with a better development experience, configuring and automating their environments using Docker, Vagrant, and Powershell.
     - Containerization of many products based on ASP Net core.
     - Provide a tool based on Powershell to deploy all products into different markets and infrastructure, developing this tooling under TDD with Powershell Pester.
     - Provide tooling and automation to deploy and build products, providing and maintaining tools like Jenkins, Sonarqube, Nexus, and integration with on-premise and cloud infrastructure.
@@ -121,7 +121,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 
 - **Technologies:**
     - BackEnd: PowerShell and Bash
-    - Storage/NoSql/DataBase: Postgresql DB, Sql Server 2012/2016, Redis, RabbitMq
+    - Storage/NoSql/DataBase: Postgresql DB, SQL Server 2012/2016, Redis, RabbitMq
     - DevOps Tools/Cloud: ElasticSearch, Jenkins, Azure, AWS, Vagrant, PowerShell DSC, Docker
     - Work Methodology: TDD, XP Programming
 
@@ -138,8 +138,8 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Responsibilities:**
     - I was involved in several projects simultaneously, including projects for the state post company Correos. One of the notable projects was the technological update of the transfer money system, which involved integration with other systems like PayPal and Western Union
     - Mentoring and training Internalship, middle and senior engineers.
-    - Leadering Technical architecture decissions for multiple customers/projects.
-    - Helping internalship engineers in their carrer path, mentoring, giving support and providing trainings about best practices, coding and testing.
+    - Leading Technical architecture decisions for multiple customers/projects.
+    - Helping internship engineers in their career path, mentoring, giving support and providing training about best practices, coding and testing.
   
 - **Technologies:**
     - Frontend: JSP, JSF 2.x, Prime Faces 4.x, Spring MVC
@@ -152,10 +152,10 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 # Solution Architect
 
 - **Company:** Capgemini, Valencia
-- **Duration:** Juny 2014 – August 2015
+- **Duration:** June 2014 – August 2015
 - **Location:** On-site, Hands-On
 - **Responsibilities:**
-  - As part of the Solution Architects team in Capgemini Coe Center, I participated in the development of the Devon Framework. My role involved leading a team of 5 Solution Architects in building a Retail Standalone Framework based on the Standard JavaPos. This Framework serves as the foundation for all software systems at Mercadona, providing a standardized way to manage devices such as TPVs, Dataphones, EMV, and Pind Pad Terminals.
+  - As part of the Solution Architects team at Capgemini Coe Center, I participated in the development of the Devon Framework. My role involved leading a team of 5 Solution Architects in building a Retail Standalone Framework based on the Standard JavaPos. This Framework serves as the foundation for all software systems at Mercadona, providing a standardized way to manage devices such as TPVs, Dataphones, EMV, and Pind Pad Terminals.
 - **Technologies:**
   - FrontEnd: Sencha Ext Js, Java FX, Css3
   - BackEnd: Spring Framework, Spring Boot, Spring Integration, Java 8, JavaPos 14, JTA, Bitronix, Hibernate, JPA, Liferay
@@ -172,7 +172,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 # Senior Software Engineer / Software Architect
 
 - **Company:** Freelance at Mediaresponse Group, Madrid
-- **Duration:** February 2013 - Juny 2014
+- **Duration:** February 2013 - June 2014
 - **Location:** On-site, Hands-On
 - **Responsibilities:**
     - As a Software Engineer, I worked on several projects using different technologies and frameworks for email marketing projects.
@@ -217,7 +217,7 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Location:** On-site, Hands-On
 - **Responsibilities:**
 
-	- At Atlantic Consultores, I worked on development and design projects for websites using HTML, JavaScript, and PHP. I participated in projects for various clients, including a Rent Car website, Hotel booking engine, and a lawyer's office website.
+	- At Atlantic Consultores, I worked on development and design projects for websites using HTML, JavaScript, and PHP. I participated in projects for various clients, including a Rent Car website, a Hotel booking engine, and a lawyer's office website.
 
 - **Technologies:**
 

@@ -2,8 +2,6 @@
 
 ## PERSONAL INFORMATION
 - Address: Canary Islands, Spain
-- Birth Date: 29 October 1978
-- E-mail: erasmolpa@gmail.com
 - Linkedin: [https://www.linkedin.com/in/erasmodominguez/](https://www.linkedin.com/in/erasmodominguez/)
 - Twitter: [https://twitter.com/erasmolpa](https://twitter.com/erasmolpa)
 - Github:
@@ -14,8 +12,8 @@
 ## PROFESSIONAL SUMMARY
 Erasmo is a Pragmatic Software Engineer with more than 17 years of experience in the Software Industry. 
 He considers himself a good team player and is an extremely humble and empathetic person. 
-His great desire to learn, research, take decisions and face new challenges, has made Erasmo assume various roles in his professional career but always have as a reference that he loves interacting with persons and coding (in that order).
-As a leader, He have the ability to manage teams, coordinate projects, and ensure the quality of deliverables.
+His great desire to learn, research, make decisions and face new challenges, has made Erasmo assume various roles in his professional career but always have as a reference that he loves interacting with persons and coding (in that order).
+As a leader, He can manage teams, coordinate projects, and ensure the quality of deliverables.
 
 ## EXPERIENCE
 
@@ -27,10 +25,10 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Duration:** April 2021 - Currently
 - **Location:** Full Remote. Hands-On
 - **Responsibilities:**
-    - Leadering a distributed team of 8 SRE engineers. Manage a team of observability engineers, assigning tasks, monitoring progress, and providing technical guidance.
+    - Leading a distributed team of 8 SRE engineers. Manage a team of observability engineers, assigning tasks, monitoring progress, and providing technical guidance.
     - Design and lead the implementation of observability solutions for the company's systems and applications.
     - Collaborate with cross-functional teams to establish requirements and define monitoring and logging strategies.
-    - Develop and maintain customized dashboards to enable technical teams to efficiently monitor and diagnose issues.
+    - Develop and maintain customized dashboards to enable technical teams to monitor and diagnose issues efficiently.
     - Implement and configure monitoring tools such as Prometheus, Grafana, and ELK Stack to ensure system availability and performance.
     - Analyze and interpret observability data to identify patterns, trends, and performance issues.
     - Conduct code reviews and ensure adherence to software development best practices.
@@ -39,8 +37,8 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Achievements:**
     - Successfully led the Warner Bros and Discovery Merge, where we provided a new and unified Observability platform, a cloud-based solution in AWS.
     - Defining and Building a real-time Logging as a Service platform, ingesting 50TB/logs per day in production.
-    - Providing data governance and support to the products teams to define and implement Event driven logs.
-    - Improved response times for critical issue resolution by 30% through the establishment of an efficient workflow and prioritization strategy.
+    - Providing data governance and support to the products teams to define and implement Event-driven logs.
+    - Improved response times for critical issue resolution by 30% through establishing an efficient workflow and prioritization strategy.
     - Implemented proactive alerts based on custom thresholds, reducing unplanned downtime by 20%.
 - **Technologies:**
     - IaC (Bash, CDK with Typescript and Terraform with Terragrunt)
@@ -107,11 +105,11 @@ As a leader, He have the ability to manage teams, coordinate projects, and ensur
 - **Location:** On-site, Hands-On
 
 - **Responsibilities:**
-    - Leading the Operation Team (4 members). I am a facilitator/mediator between development and infrastructure departments to get closer and closer to the DevOps work model. I propose and implement DevOps tools to improve and resolve company deficiencies in Automating process, providing tooling like Jenkins for CI/CD process and migrating services to Azure Cloud.
+    - Leading the Operation Team (4 members). I am a facilitator/mediator between development and infrastructure departments to get closer and closer to the DevOps work model. I propose and implement DevOps tools to improve and resolve company deficiencies in the Automating process, providing tooling like Jenkins for CI/CD process and migrating services to Azure Cloud.
     - Internally training and Mentoring IT and Product development teams about Docker, Jenkins, Azure, and scripting using Powershell and DevOps principles.
   
 - **Achievements:**
-    - Audit and analyze weak points and process improvements in the company in order to improve them under the DevOps principles.
+    - Audit and analyze weak points and process improvements in the company to improve them under the DevOps principles.
     - Provide Product Teams with a better development experience, configuring and automating their environments using Docker, Vagrant, and Powershell.
     - Containerization of many products based on ASP Net core.
     - Provide a tool based on Powershell to deploy all products into different markets and infrastructure, developing this tooling under TDD with Powershell Pester.

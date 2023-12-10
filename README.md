@@ -37,39 +37,25 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 3. **Collaboration and Requirement Definition:**
     - Collaborating with cross-functional teams to establish project requirements and define strategies for monitoring and logging.
 
-4. **Observability Solutions:**
-    - Designing and leading the implementation of observability solutions for systems and applications, ensuring comprehensive monitoring.
-
-5. **Dashboard Development:**
-    - Developing and maintaining customized dashboards to empower technical teams in monitoring and diagnosing issues efficiently.
-
-6. **Tool Configuration:**
-    - Implementing and configuring monitoring tools such as Prometheus, Grafana, and ELK Stack to ensure optimal system availability and performance.
-
-7. **Data Analysis:**
-    - Analyzing and interpreting observability data to identify patterns, trends, and performance issues.
-
-8. **Code Review and Best Practices:**
+4. **Code Review and Best Practices:**
     - Conducting code reviews and ensuring adherence to software development best practices.
 
-9. **Reporting and Meetings:**
+5. **Reporting and Meetings:**
     - Participating in meetings and presenting reports on the status and outcomes of the DevOps Toolchain team.
 
-10. **Mentorship:**
+6. **Mentorship:**
     - Mentoring and supporting team members in their professional growth and career development.
 
-#### Achievements:
-- Successfully led the integration efforts during the Warner Bros and Discovery Merge, providing a unified Observability platform in AWS.
-- Defined and built a real-time Logging as a Service platform, processing 50TB of logs daily in production.
-- Provided data governance and support to product teams for implementing Event-driven logs.
-- Improved critical issue resolution response times by 30% through efficient workflow and prioritization strategies.
-- Implemented proactive alerts based on custom thresholds, reducing unplanned downtime by 20%.
-
+#### Key Achievements:
+- Implemented Infrastructure as Code (IaC) for the governance of code management systems such as Azure DevOps and Git.
+- Assisted teams in the implementation of CI/CD pipelines, contributing to streamlined development and deployment processes.
+- Played a pivotal role in the adoption and implementation of Kubernetes as a platform for deploying microservices.
+  
 #### Technologies:
-- Infrastructure as Code (IaC): Bash, CDK with Typescript, Terraform with Terragrunt.
-- Observability Tools: Grafana, Prometheus, Kibana, Opensearch, FluentD, AWS services (multiple), Kafka, Kubernetes EKS.
-- DevOps Tools: Jenkins, Github Actions, FluxCD, Helm, Kustomize, Docker/ContainerD.
-- Work Methodology: Scrum.
+- Infrastructure as Code (IaC): Bash, Powershell, Python and Terraform.
+- Observability Tools: Grafana, Prometheus
+- DevOps Tools: Octopus, GitHub Actions,Azure DevOps Pipelines
+- Work Methodology: Kanban.
 
 
 ### SRE Observability Tech Lead

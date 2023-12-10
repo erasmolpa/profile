@@ -18,7 +18,59 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 ## EXPERIENCE
 
 <details>
-<summary> Senior/Staff SRE. My last 2 Years</summary>
+<summary> Senior/Staff SRE and DevOps. My last 3 Years</summary>
+
+### DevOps Lead
+- **Company:** Schroders
+- **Duration:** September 2023 - Currently
+- **Location:**  Remote
+
+#### Responsibilities:
+
+1. **Team Leadership:**
+    - Leading and guiding a dedicated DevOps Toolchain team, fostering collaboration and synergy among team members.
+    - Task assignment, progress monitoring, and provision of technical guidance to ensure the team's success.
+
+2. **Technology Integration:**
+    - Spearheading the incorporation of advanced technology into the client environment, enhancing operational efficiency and innovation.
+
+3. **Collaboration and Requirement Definition:**
+    - Collaborating with cross-functional teams to establish project requirements and define strategies for monitoring and logging.
+
+4. **Observability Solutions:**
+    - Designing and leading the implementation of observability solutions for systems and applications, ensuring comprehensive monitoring.
+
+5. **Dashboard Development:**
+    - Developing and maintaining customized dashboards to empower technical teams in monitoring and diagnosing issues efficiently.
+
+6. **Tool Configuration:**
+    - Implementing and configuring monitoring tools such as Prometheus, Grafana, and ELK Stack to ensure optimal system availability and performance.
+
+7. **Data Analysis:**
+    - Analyzing and interpreting observability data to identify patterns, trends, and performance issues.
+
+8. **Code Review and Best Practices:**
+    - Conducting code reviews and ensuring adherence to software development best practices.
+
+9. **Reporting and Meetings:**
+    - Participating in meetings and presenting reports on the status and outcomes of the DevOps Toolchain team.
+
+10. **Mentorship:**
+    - Mentoring and supporting team members in their professional growth and career development.
+
+#### Achievements:
+- Successfully led the integration efforts during the Warner Bros and Discovery Merge, providing a unified Observability platform in AWS.
+- Defined and built a real-time Logging as a Service platform, processing 50TB of logs daily in production.
+- Provided data governance and support to product teams for implementing Event-driven logs.
+- Improved critical issue resolution response times by 30% through efficient workflow and prioritization strategies.
+- Implemented proactive alerts based on custom thresholds, reducing unplanned downtime by 20%.
+
+#### Technologies:
+- Infrastructure as Code (IaC): Bash, CDK with Typescript, Terraform with Terragrunt.
+- Observability Tools: Grafana, Prometheus, Kibana, Opensearch, FluentD, AWS services (multiple), Kafka, Kubernetes EKS.
+- DevOps Tools: Jenkins, Github Actions, FluxCD, Helm, Kustomize, Docker/ContainerD.
+- Work Methodology: Scrum.
+
 
 ### SRE Observability Tech Lead
 - **Company:** Wizeline. Working for Warner Bros Discovery as a contractor
@@ -67,7 +119,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
     - Provide Kubernetes Clusters Production Ready.
     - Provide an Observability Solution based on Cloud Native tools (Prometheus, Fluxdb, Grafana, and Zabbix). All the stack has been deployed in Kubernetes using Helm.
     - Define and provide common helm charts to deploy ASP Core Services in production using Kubernetes and Helm packaging.
-    - Implanting Puppet and The Foreman to manage the infrastructure, managing around 500 Servers and 1500 Laptops and 200 Workstations (Windows, Linux, and Mac Os Distros).
+    - Implanting Puppet and The Foreman to manage the infrastructure, managing around 500 Servers 1500 Laptops and 200 Workstations (Windows, Linux, and Mac OS distros).
     - Provide Immutable infrastructure to deploy Environments with Packer.
     - Provide IT and product support teams automation tools using Rundeck.
     - Proposing and implementing DevOps tools to improve and resolve company deficiencies in automating processes, providing tooling like Jenkins for the CI/CD process, and migrating services to Azure Cloud.

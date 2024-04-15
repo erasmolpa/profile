@@ -12,7 +12,7 @@
 ## PROFESSIONAL SUMMARY
 Erasmo is a Pragmatic Software Engineer with more than 17 years of experience in the Software Industry. 
 He considers himself a good team player and is an extremely humble and empathetic person. 
-His great desire to learn, research, make decisions and face new challenges, has made Erasmo assume various roles in his professional career but always have as a reference that he loves interacting with persons and coding (in that order).
+His great desire to learn, research, make decisions and face new challenges, has made Erasmo assume various roles in his professional career but always has as a reference that he loves interacting with persons and coding (in that order).
 As a leader, He can manage teams, coordinate projects, and ensure the quality of deliverables.
 
 ## EXPERIENCE
@@ -147,11 +147,11 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
     - Internally training and Mentoring IT and Product development teams about Docker, Jenkins, Azure, and scripting using Powershell and DevOps principles.
   
 - **Achievements:**
-    - Audit and analyze weak points and process improvements in the company to improve them under the DevOps principles.
+    - Audit and analyze the company's weak points and process improvements to improve them under the DevOps principles.
     - Provide Product Teams with a better development experience, configuring and automating their environments using Docker, Vagrant, and Powershell.
     - Containerization of many products based on ASP Net core.
     - Provide a tool based on Powershell to deploy all products into different markets and infrastructure, developing this tooling under TDD with Powershell Pester.
-    - Provide tooling and automation to deploy and build products, providing and maintaining tools like Jenkins, Sonarqube, Nexus, and integration with on-premise and cloud infrastructure.
+    - Provide tooling and automation to deploy and build products, providing and maintaining tools like Jenkins, Sonarqube, and Nexus, and integration with on-premise and cloud infrastructure.
     - Provide the base and mechanism to migrate software and infrastructure to Azure Cloud, liberating several bare-metal infrastructures.
     - Provide Infrastructure on-demand, creating Demo, QA, and Testing environments using Vagrant.
 
@@ -175,7 +175,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
     - I was involved in several projects simultaneously, including projects for the state post company Correos. One of the notable projects was the technological update of the transfer money system, which involved integration with other systems like PayPal and Western Union
     - Mentoring and training Internalship, middle and senior engineers.
     - Leading Technical architecture decisions for multiple customers/projects.
-    - Helping internship engineers in their career path, mentoring, giving support and providing training about best practices, coding and testing.
+    - Helping internship engineers in their career path, mentoring, supporting and providing training about best practices, coding and testing.
   
 - **Technologies:**
     - Frontend: JSP, JSF 2.x, Prime Faces 4.x, Spring MVC
@@ -191,7 +191,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 - **Duration:** June 2014 – August 2015
 - **Location:** On-site, Hands-On
 - **Responsibilities:**
-  - As part of the Solution Architects team at Capgemini Coe Center, I participated in the development of the Devon Framework. My role involved leading a team of 5 Solution Architects in building a Retail Standalone Framework based on the Standard JavaPos. This Framework serves as the foundation for all software systems at Mercadona, providing a standardized way to manage devices such as TPVs, Dataphones, EMV, and Pind Pad Terminals.
+  - As part of the Solution Architects team at Capgemini Coe Center, I participated in developing the Devon Framework. My role involved leading a team of 5 Solution Architects in building a Retail Standalone Framework based on the Standard JavaPos. This Framework serves as the foundation for all software systems at Mercadona, providing a standardized way to manage devices such as TPVs, Dataphones, EMV, and Pind Pad Terminals.
 - **Technologies:**
   - FrontEnd: Sencha Ext Js, Java FX, Css3
   - BackEnd: Spring Framework, Spring Boot, Spring Integration, Java 8, JavaPos 14, JTA, Bitronix, Hibernate, JPA, Liferay
@@ -213,7 +213,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 - **Responsibilities:**
     - As a Software Engineer, I worked on several projects using different technologies and frameworks for email marketing projects.
 - **Achievements:**
-    - Re-designing and implementing online campaign distribution platforms. I migrated these platforms from Java to a Php RESTful architecture and C++.
+    - Re-designing and implementing online campaign distribution platforms. I migrated these platforms from Java to a PHP RESTful architecture and C++.
     - Building an events tracking platform. This application is used for saving all the information and events generated by users who receive advertising campaign emails and newsletters. It also manages lead redirects and pixel events. The application has been developed as an API system, allowing our partner companies to integrate and use the API services.
 
 - **Technologies:**

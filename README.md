@@ -47,14 +47,14 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
     - Mentoring and supporting team members in their professional growth and career development.
 
 #### Key Achievements:
-- Implemented Infrastructure as Code (IaC) for the governance of code management systems such as Azure DevOps and Git.
+- Implemented Infrastructure as Code (IaC) for the governance of code management systems such as Azure DevOps and Github.
 - Assisted teams in the implementation of CI/CD pipelines, contributing to streamlined development and deployment processes.
 - Played a pivotal role in the adoption and implementation of Kubernetes as a platform for deploying microservices.
   
 #### Technologies:
 - Infrastructure as Code (IaC): Bash, Powershell, Python and Terraform.
 - Observability Tools: Grafana, Prometheus
-- DevOps Tools: Octopus, GitHub Actions,Azure DevOps Pipelines
+- DevOps Tools: Octopus, GitHub Actions, Azure DevOps Pipelines
 - Work Methodology: Kanban.
 
 

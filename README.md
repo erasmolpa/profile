@@ -23,7 +23,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 ### DevOps Lead
 - **Company:** Schroders
 - **Duration:** September 2023 - Currently
-- **Location:**  Remote
+- **Location:**  Full Remote. Hands-On
 
 #### Responsibilities:
 
@@ -60,7 +60,7 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 
 ### SRE Observability Tech Lead
 - **Company:** Wizeline. Working for Warner Bros Discovery as a contractor
-- **Duration:** April 2021 - Currently
+- **Duration:** April 2021 - September 2023
 - **Location:** Full Remote. Hands-On
 - **Responsibilities:**
     - Leading a distributed team of 8 SRE engineers. Manage a team of observability engineers, assigning tasks, monitoring progress, and providing technical guidance.

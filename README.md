@@ -48,14 +48,15 @@ As a leader, He can manage teams, coordinate projects, and ensure the quality of
 
 #### Key Achievements:
 - Implemented Infrastructure as Code (IaC) for the governance of code management systems such as Azure DevOps and Github.
+- Provide Runtime Platform at scale, for all the CI/CD process using self-hosted agents in Kubernetes.
 - Assisted teams in the implementation of CI/CD pipelines, contributing to streamlined development and deployment processes.
 - Played a pivotal role in the adoption and implementation of Kubernetes as a platform for deploying microservices.
   
 #### Technologies:
-- Infrastructure as Code (IaC): Bash, Powershell, Python and Terraform.
-- Observability Tools: Grafana, Prometheus
+- Infrastructure as Code (IaC): Bash, Powershell, Python, Terraform and GitOps using ArgoCD
+- Observability Tools: Grafana, Prometheus, Azure Monitor
 - DevOps Tools: Octopus, GitHub Actions, Azure DevOps Pipelines
-- Work Methodology: Kanban.
+- Work Methodology: Kanban
 
 
 ### SRE Observability Tech Lead

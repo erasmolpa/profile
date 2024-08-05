@@ -18,8 +18,6 @@ I have a proven track record in creating scalable, resilient cloud infrastructur
 
 ## SKILLS
 
-## SKILLS
-
 ### Technical Skills
 
 - **Cloud Platforms:** AWS, Azure (Most proficient in AWS)

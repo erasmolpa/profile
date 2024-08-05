@@ -5,7 +5,7 @@
 **Twitter:** [erasmolpa](https://twitter.com/erasmolpa)  
 **GitHub:** [erasmodominguezdc](https://github.com/erasmodominguezdc) (Professional), [erasmolpa](https://github.com/erasmolpa) (Personal)
 
----
+------
 
 ## PROFESSIONAL SUMMARY
 
@@ -14,7 +14,7 @@ Known for being a collaborative team player with humility and empathy, I possess
 My passion for coding and interacting with people has driven my career. As a leader, I excel in managing teams, coordinating projects, and ensuring the highest quality of deliverables.
 I have a proven track record in creating scalable, resilient cloud infrastructures, ensuring high availability, and mentoring engineers to achieve senior-level expertise.
 
----
+------
 
 ## SKILLS
 
@@ -32,7 +32,7 @@ I have a proven track record in creating scalable, resilient cloud infrastructur
 - **Leadership:** Team management, Mentoring, Promoting engineers to senior levels
 - **Problem-Solving:** Decision-making, Strategic Planning
 
----
+------
 
 ## EXPERIENCE
 

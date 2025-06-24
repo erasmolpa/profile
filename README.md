@@ -7,7 +7,7 @@
 
 ## 🧠 Profile
 
-Engineering leader with 17+ years of experience building systems, enabling teams, and driving DevOps and SRE practices at scale.
+Engineering leader with almost 20 years of experience building systems, enabling teams, and driving DevOps and SRE practices at scale.
 
 I focus on delivering value through **clarity**, **reliability**, and **technical ownership** — across platforms, teams, and time zones.
 

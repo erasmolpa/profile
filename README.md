@@ -9,14 +9,11 @@
 
 Engineering leader with almost 20 years of experience building systems, enabling teams, and driving DevOps and SRE practices at scale.
 
-I focus on delivering value through **clarity**, **reliability**, and **technical ownership** — across platforms, teams, and time zones.
-
 My approach blends:
 
-- 🧠 Systems thinking over tool obsession  
-- 🤝 Collaboration over silos  
-- 🚢 Shipping real work over slide decks  
-- 📈 Enablement over control  
+- 🧠 Systems thinking  
+- 🤝 Collaboration
+- 📈 Enablement and support  
 
 Whether I’m writing code, mentoring engineers, or designing a platform strategy — I care about what lasts, what scales, and what helps people do great work.
 
@@ -24,7 +21,7 @@ Whether I’m writing code, mentoring engineers, or designing a platform strateg
 
 ## 🚀 What I Do Best
 
-- Lead high-impact DevOps and SRE teams in regulated and mission-critical environments  
+- Lead high-impact DevOps and SRE teams   
 - Design and evolve internal platforms and infrastructure to enable product teams  
 - Drive org-wide DevOps transformations based on real delivery needs — not trends  
 - Balance engineering excellence with pragmatism, clarity, and mentorship  
@@ -89,11 +86,6 @@ My public lab for ideas, workshops, notes, and proof-of-concepts.
 Organized by purpose and technologies I believe in: from observability and IaC to systems thinking and leadership.
 
 👉 [View on GitHub](https://github.com/erasmo-dominguez-stuff)
-
----
-
-### Substack: [**Why I Train (and Why I Train Hybrid)**](https://erasmodominguez.substack.com/p/why-i-train-and-why-i-train-hybrid)  
-Where I reflect on engineering, learning, leadership, and staying grounded — as a developer and as a dad.
 
 ---
 
